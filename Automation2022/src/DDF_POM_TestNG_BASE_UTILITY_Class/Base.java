@@ -9,6 +9,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 
 public class Base {
 
+	
 	static WebDriver driver;
 	public static void browserOpen() throws IOException {
 		System.setProperty("webdriver.chrome.driver", "E:\\Yojana\\new\\JUNE2022\\workspace\\Automation2022\\browsers\\chromedriver.exe");// key - browsername, value -// chrome driver																									// path
