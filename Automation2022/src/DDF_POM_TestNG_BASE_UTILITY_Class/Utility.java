@@ -16,6 +16,7 @@ import org.openqa.selenium.io.FileHandler;
 
 public class Utility {
 
+	
 	public static String getPropertyFileData(String key) throws IOException {
 		Properties obj = new Properties();
 		FileInputStream file = new FileInputStream(System.getProperty("user.dir")+"\\url.properties");
