@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-02T20:42:11 IST" name="Default suite" finished-at="2022-09-02T20:43:21 IST" duration-ms="70353">
+    <groups>
+    </groups>
+    <test started-at="2022-09-02T20:42:11 IST" name="Default test" finished-at="2022-09-02T20:43:21 IST" duration-ms="70353">
+      <class name="DDF_POM_TestNG_BASE_UTILITY_Class.KiteLoginTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:DDF_POM_TestNG_BASE_UTILITY_Class.KiteLoginTest@c33b74f]" started-at="2022-09-02T20:42:11 IST" name="openBrowser" finished-at="2022-09-02T20:42:33 IST" duration-ms="21768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:DDF_POM_TestNG_BASE_UTILITY_Class.KiteLoginTest@c33b74f]" started-at="2022-09-02T20:42:33 IST" name="login" finished-at="2022-09-02T20:43:13 IST" duration-ms="39530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="test()[pri:0, instance:DDF_POM_TestNG_BASE_UTILITY_Class.KiteLoginTest@c33b74f]" started-at="2022-09-02T20:43:13 IST" name="test" finished-at="2022-09-02T20:43:17 IST" duration-ms="4431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="logOut(org.testng.ITestResult)[pri:0, instance:DDF_POM_TestNG_BASE_UTILITY_Class.KiteLoginTest@c33b74f]" started-at="2022-09-02T20:43:17 IST" name="logOut" finished-at="2022-09-02T20:43:20 IST" duration-ms="3339" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test status=SUCCESS method=KiteLoginTest.test()[pri:0, instance:DDF_POM_TestNG_BASE_UTILITY_Class.KiteLoginTest@c33b74f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method is-config="true" signature="closeBowser()[pri:0, instance:DDF_POM_TestNG_BASE_UTILITY_Class.KiteLoginTest@c33b74f]" started-at="2022-09-02T20:43:20 IST" name="closeBowser" finished-at="2022-09-02T20:43:21 IST" duration-ms="1154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBowser -->
+      </class> <!-- DDF_POM_TestNG_BASE_UTILITY_Class.KiteLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
